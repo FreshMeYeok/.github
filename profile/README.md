@@ -24,3 +24,22 @@
 
 ## 4. Demo 및 발표 영상
 [데모 영상 Youtube 링크](https://youtu.be/JEbsMDw48QM)
+
+
+## 5. 실행 방법
+
+### 5.1 파이썬 서버 실행
+```shell
+git clone https://github.com/FreshMeYeok/BeCareFULL.git
+cd BeCareFULL/final_testing/load_and_predict
+python3 main.py
+```
+
+### 5.2 웹 페이지 실행
+```shell
+git clone https://github.com/FreshMeYeok/Anomaly_dashboard.git
+cd Anomaly_dashboard
+npm i
+npm run start
+```
+
